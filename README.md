@@ -38,7 +38,7 @@ I'm an indie developer and student building my version of the digital world one 
 
 
 ### 📊 Stats
-![Petru's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetruTudorie&show_icons=true&theme=radical)
+![Petru's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetruTudorie&show_icons=true&theme=dark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
