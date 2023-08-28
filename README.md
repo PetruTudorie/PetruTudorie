@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Filmmaker/)`**
 
-I'm an indie developer and student building my of the digital world one step at the time. All coding projects are build from the ground up , from planning and designig al the way to solving real-life problems with code.
+I'm an indie developer and student building my version of the digital world one step at the time. All coding projects are build from the ground up , from planning and designig al the way to solving real-life problems with code.
 
  <p aling="left">
   <a href="https://github.com/PetruTudorie?tab=followers">
