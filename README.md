@@ -31,12 +31,20 @@ I'm an indie developer and student building my of the digital world one step at 
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+<br />
+<br />
+
 
 
 ### 📊 Stats
-
+<br />
 ![Petru's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetruTudorie&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
+<details>
+ <summary><h3>👨‍💻 Petru's Coding Journey</h3></summary>
+   I started my coding journey as a computer naïve high schooler with a passion to learn everything I could about this world of programming - code, Unix, theory. And all the while learning about iOS development with a dream of building my own app, but that was soon overshadowed by my desire to excel in Java.
+ 
+
