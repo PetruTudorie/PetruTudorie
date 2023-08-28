@@ -9,6 +9,7 @@ I'm an indie developer and student building my version of the digital world one 
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PetruTudorie?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PetruTudorie?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/ </a>
+         <a href="https://instagram.com/petru.tudorie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="petru.tudorie" height="30" width="40" /></a>
   
  </p>
 
